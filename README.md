@@ -1,7 +1,7 @@
 # Flappy-Duck
 Android 2D game created using Unity 2017.3.1f1
 
-![alt text](./demo_images/flappydemo1.png "Randomly Generated Columns")![alt text](./demo_images/flappydemo2.png "Flapping Bird Animation")![alt text](./demo_images/flappydemo3.png "Dead Bird Game Over")
+![alt text](./demo_images/flappydemo1.png "Randomly Generated Columns")   ![alt text](./demo_images/flappydemo2.png "Flapping Bird Animation")   ![alt text](./demo_images/flappydemo3.png "Dead Bird Game Over")
 
 ---
 ## ToDo:
