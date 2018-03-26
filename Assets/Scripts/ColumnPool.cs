@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class ColumnPool : MonoBehaviour {
 
-	public int columnPoolSize = 5;
+	private int columnPoolSize = 5;
 	public GameObject columnPrefab;
-	public float spawnRate = 4f;
-	public float columnMin = 1f;
-	public float columnMax = 3.5f;
+	public static float spawnRate = 4f;
+	public static float columnMin = -2.3f;
+	public static float columnMax = 1.8f;
 
 	private GameObject[] columns;
 	private Vector2 objectPoolPosition = new Vector2 (-15f, -25f);
